@@ -11,4 +11,3 @@
 ## GGH stats 2031-2041
 
 <iframe src="ggh_stats_3141.html" height="500" width="1000"></iframe>
-<iframe src="ggh_stats_3141_shp.html" height="500" width="1000"></iframe>
